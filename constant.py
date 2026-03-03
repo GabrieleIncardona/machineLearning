@@ -1,0 +1,23 @@
+# Costanti
+ARENA_WIDTH = 800
+ARENA_HEIGHT = 600
+BOT_SIZE = 20
+BULLET_SIZE = 5
+BULLET_SPEED = 8
+MAX_HEALTH = 100
+POPULATION_SIZE = 20
+GENERATIONS = 500
+BATTLE_DURATION = 600 # Frame per battaglia
+
+# Colori
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (231, 76, 60)
+BLUE = (52, 152, 219)
+GREEN = (46, 204, 113)
+GRAY = (127, 140, 141)
+DARK_GRAY = (44, 62, 80)
+
+# DEAP
+CXPB = 0.7  # Probabilità di crossover
+MUTPB = 0.2 # Probabilità di mutazione
